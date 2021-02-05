@@ -1,8 +1,8 @@
 <div class="row" style="height:500px"> 
   <div class="column"> 
-    <div class="row">
-        <img class="column" src="/images/my_pic.jpg" alt="Avatar" style="width:300px">
-        <div class="column">
+    <div float="left">
+        <img src="/images/my_pic.jpg" alt="Avatar" style="width:300px">
+        <div>
           <p>
               Mobile: +91 8619109606
               <br>
