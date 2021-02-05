@@ -1,5 +1,5 @@
 <div class="row" style="height:500px"> 
-  <div class="column" style="width:50%"> 
+  <div class="column"> 
     <img src="/images/my_pic.jpg" alt="Avatar" style="width:300px"><br>
     <br>
     <p>Software Engineer working at India's leading Agritech company. Skilled in Go, Python, Django, Flask, ReactJS, Haskell, Redis, Mysql, MongoDB, Docker, Kubernetes, etc. Strong engineering professional with a Master of Computer Applications from Department of Computer Science, Savitribai Phule Pune University.</p>
