@@ -1,9 +1,13 @@
-<div class="row" style="height:500px">
-  <div class="column" style="width:50%">
+<div class="row" style="height:500px"> 
+  <div class="column" style="width:50%"> 
     <img src="/images/my_pic.jpg" alt="Avatar" style="width:300px"><br>
-    <br><p>
-    Mobile: +91 8619109606<br>
-    Email:  hellosunilsaini@gmail.com
+    <br>
+    <p></p>
+    <br>
+    <p>
+        Mobile: +91 8619109606
+        <br>
+        Email:  hellosunilsaini@gmail.com
     </p>
   </div>
   <div class="column" style="width:50%">
@@ -13,5 +17,5 @@
     3. <a href="https://github.com/HelloSunilSaini?tab=repositories">GIT</a><br><br>
     4. <a href="https://drive.google.com/file/d/1bWukKFAxnezNcLGAUCeq56rL9fU5TRhT/view?usp=sharing">Resume</a>
     <br><br>
-  </div>
-</div>
+  </div> 
+</div> 
