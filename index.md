@@ -1,7 +1,9 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 <div style="height:400px">
     <div class="row">
-    <img class="col-sm-6" src="/images/my_pic.jpg" style="width:300px;border-radius:10%;border:2px solid #000">
+    <div class="col-sm-6">
+      <img src="/images/my_pic.jpg" style="width:250px;border-radius:10%;border:2px solid #000">
+    </div>
     <div class="col-sm-6" style="margin-left:20px;">
       <br><br>
       <p>Mobile: +91 8619109606</p>
