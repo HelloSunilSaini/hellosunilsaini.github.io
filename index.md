@@ -1,10 +1,9 @@
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 <div style="height:400px">
-    <div class="row" style="width:100%">
-      <div class="col-sm-6">
+    <div>
+      <div>
         <img src="/images/my_pic.jpg" style="width:250px;border-radius:10%;border:2px solid #000">
       </div>
-      <div class="col-sm-6" style="margin-left:20px;">
+      <div style="margin-left:20px;">
         <br><br>
         <p>Mobile: +91 8619109606</p>
         <p>Email: hellosunilsaini@gmail.com</p>
