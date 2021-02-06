@@ -1,9 +1,8 @@
 <div style="height:400px">  
     <img src="/images/my_pic.jpg" style="width:250px;float:left;border-radius:10%;border:2px solid #000">
-    <div class="column" style="margin-left:20px">
+    <div style="margin:50px">
       <br><br>
       <p>Mobile: +91 8619109606</p>
-      <br>
       <p>Email: hellosunilsaini@gmail.com</p>
       <br>
       1. <a href="https://docs.google.com/spreadsheets/d/1nB2kyE4mW_f5MHMabJb7JJTpa8m2ouGosSx8a3w0ntw/edit?usp=sharing">Projects Summary</a><br><br>
