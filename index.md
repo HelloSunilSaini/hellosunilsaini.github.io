@@ -1,6 +1,7 @@
 <div style="height:400px">  
-    <img src="/images/my_pic.jpg" style="width:250px;float:left;border-radius:20%;border:5px solid #FFF">
-    <div class="column" style="magin:20px">
+    <img src="/images/my_pic.jpg" style="width:250px;float:left;border-radius:10%;border:2px solid #101033">
+    <div class="column" style="magin-left:200px">
+      <br><br>
       <p>Mobile: +91 8619109606</p>
       <br>
       <p>Email: hellosunilsaini@gmail.com</p>
