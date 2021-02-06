@@ -14,4 +14,3 @@
   <p>Strong engineering professional with a Master of Computer Applications from Department of Computer Science, Savitribai Phule Pune University.</p>
   <p style="color:#ffcc00">Eager to take new challenges  |  Always ready to learn new things  |  Team player
   </p>
-</div>
