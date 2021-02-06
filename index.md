@@ -1,7 +1,9 @@
 <div style="height:400px">
     <div>
       <div>
-        <img src="/images/my_pic.jpg" style="width:250px;border-radius:10%;border:2px solid #000;float:center;">
+        <center>
+          <img src="/images/my_pic.jpg" style="width:250px;border-radius:10%;border:2px solid #000;">
+        </center>
       </div>
       <div style="text-align:center;">
         <br><br>
