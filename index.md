@@ -1,9 +1,9 @@
 <div style="height:400px">
-    <div>
+    <div style="align:center;">
       <div>
         <img src="/images/my_pic.jpg" style="width:250px;border-radius:10%;border:2px solid #000">
       </div>
-      <div style="margin-left:20px;">
+      <div style="margin-left:20px;text-align:center;">
         <br><br>
         <p>Mobile: +91 8619109606</p>
         <p>Email: hellosunilsaini@gmail.com</p>
@@ -15,7 +15,7 @@
         <br><br>
       </div>
     </div>
-    <br><br>
+    <br>
     <div>
       <p>Software Engineer working at India's leading Agritech company. Skilled in GoLang, Python, Django, Flask, ReactJS, Haskell, Redis, Mysql, MongoDB, Docker, Kubernetes, etc. Strong engineering professional with a Master of Computer Applications from Department of Computer Science, Savitribai Phule Pune University.</p>
     </div>
