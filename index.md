@@ -1,6 +1,7 @@
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <div style="height:400px">  
-    <img src="/images/my_pic.jpg" style="width:250px;float:left;border-radius:10%;border:2px solid #000">
-    <div style="width:50px;"></div>
+    <img src="/images/my_pic.jpg" style="width:250px;border-radius:10%;border:2px solid #000">
     <div style="margin-left:50px;">
       <br><br>
       <p>Mobile: +91 8619109606</p>
